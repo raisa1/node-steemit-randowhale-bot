@@ -18,6 +18,6 @@
   "homepage": "https://github.com/jongeunpark/node-steemit-randowhale-bot#readme",
   "dependencies": {
 	    "log4js": "^1.1.1",
-	    "steem": "^0.5.18"
+	    "steem": "^0.7.1"
   }
 }
